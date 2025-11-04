@@ -1,7 +1,6 @@
 #include <iostream>
-
-#include "src/hello.hpp"
+#include "src/median.hpp"
 
 int main() {
-  std::cout << hello() << std::endl;
+
 }
